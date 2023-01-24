@@ -1,5 +1,7 @@
 # Formation Intensive Wordpress: Feuille de parametrage
 
+Pour acceder au site a cloner [cliquer ici](https://websitedemos.net/childcare-blog-02/)
+
 - Theme:
   - **Astra**
 - Plugins:
